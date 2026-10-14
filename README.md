@@ -2,6 +2,14 @@
 
 Opal кряк, Opal crack — гибридный Fabric-клиент Minecraft 26.2 для BedWars и SkyWars. Лоадер, AimAssist, Scaffold, Velocity.
 
+## Постер с сайта MoggyDay
+
+[![Opal — poster, crack, cheat, скачать с moggydaymc-cheat.com](https://moggydaymc-cheat.com/assets/posters/opal.jpg)](https://moggydaymc-cheat.com/client.html?id=opal)
+
+Фото карточки на сайте: [https://moggydaymc-cheat.com/assets/posters/opal.jpg](https://moggydaymc-cheat.com/assets/posters/opal.jpg) · [https://moggydaymc-cheat.com/client.html?id=opal](https://moggydaymc-cheat.com/client.html?id=opal)
+
+В репозитории: `assets/poster.jpg` (тот же постер, что на сайте и в лаунchere).
+
 ## Скачать Opal — только с официального сайта
 
 **Скачать с сайта MoggyDay** (официально, без зеркал и «левых» crack-файлов):
@@ -16,14 +24,30 @@ Opal кряк, Opal crack — гибридный Fabric-клиент Minecraft 2
 > **SEO:** запросы вроде «Opal crack», «Opal cheat», «Opal кряк», «скачать Opal minecraft» — качай **только** с **moggydaymc-cheat.com**, не с Telegram и не с file-hosting.
 
 
-## О клиенте
+## Кратко
 
 Opal кряк / Opal crack — гибрид ghost и blatant на Fabric 26.2. Лоадер Java 25, 4 ГБ. Функционал: AimAssist, Reach, Velocity, Scaffold, ESP. BedWars и SkyWars.
 
-- **Версии Minecraft:** 26.2
-- **Java:** 25
-- **Сервера:** BedWars, SkyWars
-- **Модули:** aimassist reach velocity scaffold esp
+| Параметр | Значение |
+| --- | --- |
+| Клиент | **Opal** |
+| Тип | FREE |
+| Направление | Hybrid · мини-игры |
+| Minecraft | 26.2 |
+| Java | 25 |
+| RAM | 4 ГБ |
+| Античит | Ghost + blatant |
+| Сервера | BedWars, SkyWars |
+
+## Подробное описание
+
+Opal кряк — гибридный Fabric-клиент под мини-игры вроде BedWars и SkyWars: громкая часть (полёт, Scaffold, агрессивный бой) и тихая (аккуратный AimAssist, Reach, Velocity) переключаются под сервер. По данным автора, около 70 модулей, свой лаунчер с авторизацией и обновлениями, скриптовый движок на GraalVM, собственный интерфейс. Нужна Java 25 для Minecraft 26.2. Конфиг с другого клиента здесь не откроется.
+
+## Функционал и модули
+
+На MoggyDay Opal — гибрид на Fabric 26.2: AimAssist, Reach, Velocity, Scaffold, полёт, визуалы и ESP, около 70 модулей в пяти категориях. Для строгих серверов выбирай тихий набор, для приватных игр — громкий. Конфиги храни отдельно, их можно делиться через сайт автора.
+
+**Модули:** aimassist, reach, velocity, scaffold, esp
 
 ## Ключевые слова (Google · Yandex · браузер)
 
